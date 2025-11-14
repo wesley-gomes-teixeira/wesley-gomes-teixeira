@@ -1,9 +1,4 @@
 <!-- Banner ou título centralizado -->
-<h1 align="center">🚀 Wesley Gomes Teixeira</h1>
-<p align="center">
-  <strong>Assistente de TI • Desenvolvedor Fullstack • DevOps & Engenharia de Software</strong>
-</p>
-
 <p align="center">
   📍 Belo Horizonte – MG • 
   <a href="mailto:wesleygomesteixeira@hotmail.com">wesleygomesteixeira@hotmail.com</a> • 
@@ -51,9 +46,8 @@ Sempre buscando evolução: código limpo, boas práticas, pipelines automatizad
 - Engenharia de Software  
 - Governança de TI  
 - ETL e manipulação de dados  
-- Automação de processos  
-- Redes e Infraestrutura  
-- Suporte técnico (N1/N2)
+- Automação de processos
+- Machine Learning
 
 ---
 
@@ -83,10 +77,3 @@ Centro Universitário UNA
 </p>
 
 ---
-
-## 🤝 Conecte-se comigo
-<p align="center">
-  <a href="https://linkedin.com/in/wesley-gomes-teixeira">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
