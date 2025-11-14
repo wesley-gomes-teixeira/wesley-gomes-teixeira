@@ -68,12 +68,3 @@ Centro Universitário UNA
 - Infraestrutura como Código  
 
 ---
-
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=wesley&show_icons=true&theme=transparent" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesley&layout=compact&theme=transparent" />
-</p>
-
----
