@@ -75,15 +75,6 @@ Centro Universitário UNA
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=wesley&show_icons=true&theme=transparent" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesley&layout=compact&theme=transparent" />
-</p>
-
----
-
 ## 🤝 Conecte-se comigo
 <p align="center">
   <a href="https://linkedin.com/in/wesley-gomes-teixeira">
