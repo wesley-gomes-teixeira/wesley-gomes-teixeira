@@ -63,8 +63,9 @@ Centro Universitário UNA
 ## 📚 Estudos Atuais
 - Docker, Kubernetes e Terraform  
 - Arquitetura de Software  
-- DevOps & CI/CD  
+- DevOps & CI/CD
+- Engenharia de Dados  
 - Boas práticas de documentação  
-- Infraestrutura como Código  
+  
 
 ---
